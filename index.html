@@ -2,8 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>qRoom</title>
-    <link rel="stylesheet" href="main.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="main.css" type="text/css"/>
+    <link rel="stylesheet" href="media-queries.css" type="text/css"/>
+    <script type="text/javascript" src="script.js"></script>
 </head>
 <body>
     <div class="menu">
@@ -17,7 +21,7 @@
         </ul>
     </div>
     <div class="content">
-        <div class="adv1">
+        <div class="start">
             <img id="iphone" src="res/iphone.png">
             <img id="pixel" src="res/pixel2.png">
             <img id="googleplay" src="res/get_it_gp.png">
@@ -28,7 +32,11 @@
                 это быстрый и современный 
                 метод обучения с помощью 
                 современных технологий</a>
-            <input id="start" type="button" value="Start">
+            <input id="start" type="button" value="Start"
+                   onclick="scrollToStart()">
+        </div>
+        <div class="sign">
+            <h1 id="signIn">Sign in</h1>
         </div>
     </div>
 </body>

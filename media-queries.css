@@ -1,0 +1,56 @@
+@media only screen and (max-width: 1023px){
+    
+    li{
+        font-size: 15px;
+        width: 115px;
+        margin-left: 20px;
+    }
+    
+    #qroom{
+        top: 80px;
+        left: 60px;
+        height: 130px;
+    }
+    #iphone{
+        top: 30px;
+        left: 255px;
+        height: 370px;
+    }
+    #pixel{
+        top: 30px;
+        left: 540px;
+        height: 370px;
+    }
+    #title_qroom{
+        top: 195px;
+        left: 105px;
+        font-size: 35px;
+    }
+    #deviz{
+        width: 250px;
+        top: 270px;
+        left: 40px;
+        font-size: 17px;
+    }
+    #start{
+        width: 150px;
+        height: 50px;
+        border-radius: 15px;
+        top: 340px;
+        left: 90px;
+        font-size: 15px;
+    }
+    #appstore{
+        top: 410px;
+        left: 362px;
+        height: 50px;
+    }
+    #googleplay{
+        top: 398px;
+        left: 532px;
+        height: 75px;
+    }
+    .start{
+        height: 475px;
+    }
+}
