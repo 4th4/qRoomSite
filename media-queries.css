@@ -8,7 +8,7 @@
     
     #qroom{
         top: 80px;
-        left: 145px;
+        left: 105px;
         height: 130px;
     }
     #iphone{
@@ -23,13 +23,13 @@
     }
     #title_qroom{
         top: 195px;
-        left: 195px;
+        left: 155px;
         font-size: 35px;
     }
     #deviz{
         width: 250px;
         top: 270px;
-        left: 130px;
+        left: 90px;
         font-size: 17px;
     }
     #start{
@@ -37,7 +37,7 @@
         height: 50px;
         border-radius: 15px;
         top: 340px;
-        left: 180px;
+        left: 140px;
         font-size: 15px;
     }
     #appstore{
