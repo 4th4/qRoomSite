@@ -8,28 +8,28 @@
     
     #qroom{
         top: 80px;
-        left: 60px;
+        left: 100px;
         height: 130px;
     }
     #iphone{
         top: 30px;
-        left: 255px;
+        left: 315px;
         height: 370px;
     }
     #pixel{
         top: 30px;
-        left: 540px;
+        left: 600px;
         height: 370px;
     }
     #title_qroom{
         top: 195px;
-        left: 105px;
+        left: 145px;
         font-size: 35px;
     }
     #deviz{
         width: 250px;
         top: 270px;
-        left: 40px;
+        left: 80px;
         font-size: 17px;
     }
     #start{
@@ -37,17 +37,17 @@
         height: 50px;
         border-radius: 15px;
         top: 340px;
-        left: 90px;
+        left: 130px;
         font-size: 15px;
     }
     #appstore{
         top: 410px;
-        left: 362px;
+        left: 422px;
         height: 50px;
     }
     #googleplay{
         top: 398px;
-        left: 532px;
+        left: 592px;
         height: 75px;
     }
     .start{
