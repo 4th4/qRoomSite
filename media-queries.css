@@ -3,33 +3,33 @@
     li{
         font-size: 15px;
         width: 115px;
-        margin-left: 20px;
+        margin-left: 40px;
     }
     
     #qroom{
         top: 80px;
-        left: 100px;
+        left: 145px;
         height: 130px;
     }
     #iphone{
         top: 30px;
-        left: 315px;
+        left: 365px;
         height: 370px;
     }
     #pixel{
         top: 30px;
-        left: 600px;
+        left: 650px;
         height: 370px;
     }
     #title_qroom{
         top: 195px;
-        left: 145px;
+        left: 195px;
         font-size: 35px;
     }
     #deviz{
         width: 250px;
         top: 270px;
-        left: 80px;
+        left: 130px;
         font-size: 17px;
     }
     #start{
@@ -37,17 +37,17 @@
         height: 50px;
         border-radius: 15px;
         top: 340px;
-        left: 130px;
+        left: 180px;
         font-size: 15px;
     }
     #appstore{
         top: 410px;
-        left: 422px;
+        left: 472px;
         height: 50px;
     }
     #googleplay{
         top: 398px;
-        left: 592px;
+        left: 642px;
         height: 75px;
     }
     .start{
